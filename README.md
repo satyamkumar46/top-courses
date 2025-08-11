@@ -8,9 +8,10 @@ Key Features -
 
 
 # What you learn from this project -
-uses of react basic hook (usestate,useEffect)
--> UseState - this is react hook used for store something
--> UseEffect - this also react hook used for fetch data from api and anyChanges (update,delete) happen in webpage , this is repsonsible
+* HTML,CSS,JS
+* uses of react basic hook (usestate,useEffect)
+* UseState - this is react hook used for store something
+*  UseEffect - this also react hook used for fetch data from api and anyChanges (update,delete) happen in webpage , this is repsonsible
 
 
 # ScreenShot 🎥
